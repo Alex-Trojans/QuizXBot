@@ -29,8 +29,9 @@ REDIS_DATABASE=redis database endpoint without port
 REDIS_PORT=redis database port
 REDIS_PSWRD=redis password
 VK_TOKEN=vk access token
-```
 
+```
+## [DEPLOY TO HEROKU](https://dashboard.heroku.com/new?template=https://github.com/Alex-Trojans/QuizXBot)
 Python3 must be already installed.
 
 Should use virtual env for project isolation.

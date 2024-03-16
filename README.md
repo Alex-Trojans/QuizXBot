@@ -9,7 +9,7 @@ Commands for Telegram's bot:
 1. /qstart – auto quiz start
 2. /help – about this bot & Feauters 
 
-[![Telegram-2019-08-09-18-14-21.png](https://telegra.ph/file/8ea947ac2292180fc7880.jpg)](https://postimg.cc/TyXsdZHN)
+[![Telegram-2019-08-09-18-14-21.png](https://telegra.ph/file/dcda01bf8acf0743e0ea5.jpg)](https://postimg.cc/TyXsdZHN)
 
 To start in VK, type начать, старт, start
 To stop in VK, type закончить, стоп, stop, end

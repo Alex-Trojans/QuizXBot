@@ -1,4 +1,4 @@
-# Telegram New Quiz Bot With Auto Quiz Feautres.!
+# Telegram New Quiz Bot With Auto Quiz Feautres.! By - ALEX_TROJANS
 
 Bot quiz for Telegram and VK. It uses text files to load questions and bot to ask its. Also, it uses Redis cloud databases to save intermediate results.
 

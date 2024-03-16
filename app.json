@@ -1,1 +1,39 @@
-
+{
+    "name": "Aest Music",
+    "description": "A Telegram Quiz Bot, written in Python with Pyrogram and Py-Tgcalls.",
+    "image": "https://telegra.ph/file/dcda01bf8acf0743e0ea5.jpg",
+    "keywords": [
+    "python3",
+    "pyrogram"
+    ],
+    "env": {
+      "TG_TOKEN": {
+        "description": "A Bot's token from Botfather",
+        "value": "",
+        "required": true
+      },
+      "REDIS_DATABASE": {
+        "description": "redis database endpoint without port",
+        "value": "",
+        "required": true
+      },
+      "REDIS_PORT": {
+        "description": "get redis port",
+        "value": "",
+        "required": true
+      },
+      "REDIS_PASSWORD": {
+        "description": "Get a mongodb url from https://cloud.mongodb.com.",
+        "value": "",
+        "required": true
+      },
+      "VK_TOKEN": {
+        "description": "The user id of user whom you would like to add as OWNER.",
+        "value": "",
+        "required": true
+      },
+      "OWNER_ID" {
+       "description" "fill your User id.",
+        "value": "",
+        "required": true
+      }

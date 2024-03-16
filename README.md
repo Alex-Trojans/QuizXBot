@@ -14,8 +14,6 @@ Commands for Telegram's bot:
 To start in VK, type начать, старт, start
 To stop in VK, type закончить, стоп, stop, end
 
-[![2019-08-09-18-17-21.png](https://i.postimg.cc/Xv9Q3D4F/2019-08-09-18-17-21.png)](https://postimg.cc/Y4q1zR4q)
-
 ## How to install
 
 1. Create a bot in Telegram @via BotFather, and get it API token.

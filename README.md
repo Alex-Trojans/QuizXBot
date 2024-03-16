@@ -2,13 +2,12 @@
 
 Bot quiz for Telegram and VK. It uses text files to load questions and bot to ask its. Also, it uses Redis cloud databases to save intermediate results.
 
-To find bot in TG: @dvmn_quiz_bot
+To find bot in TG: @QuizXBot
 
 Commands for Telegram's bot:
 
-1. /start – start quiz
-2. /help – about this bot
-3. /exit, /cancel – quit game
+1. /qstart – auto quiz start
+2. /help – about this bot & Feauters 
 
 [![Telegram-2019-08-09-18-14-21.png](https://i.postimg.cc/VNSPRw9w/Telegram-2019-08-09-18-14-21.png)](https://postimg.cc/TyXsdZHN)
 
